@@ -5,11 +5,18 @@ A simple C program that takes a file of 32 bit signed integers and writes each i
 ---
 
 ## 🚀 Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ogecuz/IntegerSort.git
+Clone the repository:
+```bash
+git clone https://github.com/ogecuz/IntegerSort.git
+```
 
 ## 🛠️ Usage
-   ```bash
-   make
+1. Run the makefile:
+```bash
+make
+```
+2. Run the executable:
+```bash
+./assignment_3 <path_to_input_file>
+```
    
